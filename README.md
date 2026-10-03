@@ -1,2 +1,21 @@
-# remote-sensing-learning
-Remote sensing learning journey
+# 遥感学习记录
+
+中国地质大学（武汉）· 遥感科学与技术专业
+
+## 仓库说明
+
+记录本科四年的学习轨迹：编程练习、论文笔记与小项目。
+
+## 目录结构
+
+- `python-basics/` — Python 入门练习
+- `paper-notes/` — 论文阅读笔记
+- `opencv-practice/` — 图像处理练习
+
+## 学习进度
+
+- [x] 注册 GitHub，建立学习仓库
+- [ ] Python 基础语法（菜鸟教程）
+- [ ] numpy 数组操作
+- [ ] OpenCV 影像处理入门
+- [ ] 复现一个遥感变化检测项目
