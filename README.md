@@ -8,7 +8,7 @@
 
 ## 目录结构
 
-- `python-basics/` — Python 入门练习
+- `python-basics/` — Python 课程笔记
 - `paper-notes/` — 论文阅读笔记
 - `opencv-practice/` — 图像处理练习
 
